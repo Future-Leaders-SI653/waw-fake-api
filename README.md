@@ -11,7 +11,7 @@ This will be eventually replaced with proper backend applications, written in [C
 
 This repository is automatically synced with our frontend application repositories, which also host a copy of our mock API source in the `server/` folder for local development with [`json-server`](https://www.npmjs.com/package/json-server). See the [workflow files](.github/workflows/sync.yml) for more information on this (also synced across repositories).
 
-The synchronization is powered by this [GitHub Action](https://github.com/BetaHuhn/repo-file-sync-action), which automatically creates pull requests on each repository with the changes available. All the commits and pull requests are done and managed by the bot account @dalbitresb12-bot, which manages multiple repositories for @dalbitresb12.
+The synchronization is powered by this [GitHub Action](https://github.com/BetaHuhn/repo-file-sync-action), which automatically creates pull requests on each repository with the changes available. All the commits and pull requests are done and managed by the bot account [@dalbitresb12-bot](https://github.com/dalbitresb12-bot), which manages multiple repositories for [@dalbitresb12](https://github.com/dalbitresb12).
 
 ## License
 
