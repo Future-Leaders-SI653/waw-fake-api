@@ -1,0 +1,11 @@
+group:
+  repos: |
+    futureleadersupc/waw-frontend-vue
+    futureleadersupc/waw-frontend-angular
+  files:
+    - source: db.json
+      dest: server/db.json
+    - source: routes.json
+      dest: server/routes.json
+    - source: .github/workflows/sync.yml
+      dest: .github/workflows/sync.yml
