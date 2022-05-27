@@ -11,7 +11,7 @@ changelog:
         - documentation
     - title: Sync 🔄
       labels:
-        - scope: sync
+        - "scope: sync"
     - title: Other Changes
       labels:
         - '*'
