@@ -16,7 +16,50 @@
       "picture": {
         "href": "https://unsplash.com/photos/YUu9UAcOKZ4/download?w=640",
         "alt": "John's profile picture"
-      }
+      },
+      "experience": [
+        {
+          "id": 1,
+          "title": "Freelance UX/UI Designer",
+          "company": "Self-employed",
+          "location": "Around the world",
+          "startDate": 1464739200000,
+          "endDate": null,
+          "timeDiff": "5 years 10 months",
+          "description": "Work with clients and studios as freelancer. Work in areas like: e-commerce web projects; creative landing pages; Android and iOS apps; corporate web sites and corporate identity.",
+          "image": {
+            "href": "https://unsplash.com/photos/gcsNOsPEXfs/download?w=640",
+            "alt": "Scrabble tiles and smartphone"
+          }
+        },
+        {
+          "id": 2,
+          "title": "UX/UI designer",
+          "company": "Upwork",
+          "location": "United States",
+          "startDate": 1427846400000,
+          "endDate": 1470009600000,
+          "timeDiff": "2 years 4 months",
+          "description": "New experience with Upwork system. Work in areas like: UX/UI design, graphic design, interaction design, UX research.",
+          "image": {
+            "href": "https://unsplash.com/photos/hhUx08PuYpc/download?w=640",
+            "alt": "Laptop with book in front and lamp in a peaceful night"
+          }
+        }
+      ],
+      "education": [
+        {
+          "id": 1,
+          "university": "University of Arizona",
+          "description": "Bachelor's degree in Computer and Information Systems and Security/Information Assurance",
+          "startYear": 2009,
+          "endYear": 2013,
+          "image": {
+            "href": "https://unsplash.com/photos/QJDzYT_K8Xg/download?w=640",
+            "alt": "University of Arizona"
+          }
+        }
+      ]
     },
     {
       "id": 2,
